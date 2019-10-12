@@ -8,6 +8,6 @@ I have implemented two of basic network architectures in this ACN paper with Ker
 # 1.ConvPool-CNN-C
 I have made all operations described in this paper except ZCA whitening, which is found not to help the metwork converge. This code file is conPool-CNN.py.
 
-On CIFAR10 dataset, this model get 90.03% acc after 2000 epochs. [Here is the curve for training processing.](https://github.com/OrangeCat95/ACN/blob/master/pic/conv-poolc.bmp)
+On CIFAR10 dataset, this model get 90.03% acc after 2000 epochs. Here is the curve for training processing.![image](https://github.com/OrangeCat95/ACN/blob/master/pic/conv-poolc.bmp)
 
-On CIFAR100 dataset, [this model get 61.99% acc after 1500 epochs.](https://github.com/OrangeCat95/ACN/blob/master/pic/2.bmp)
+On CIFAR100 dataset, this model get 61.99% acc after 1500 epochs.![image](https://github.com/OrangeCat95/ACN/blob/master/pic/2.bmp)
